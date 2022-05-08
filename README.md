@@ -1,3 +1,3 @@
 # Finalpro
 for tictactoe
-code for a teo person tictactoe game
+code for a two person tictactoe game
